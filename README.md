@@ -35,10 +35,14 @@ Name's Luca, computer enthusiast and programmer.
 - **Storage**: [Lexar 64GB Professional silver SDXC]() + [Lexar 32GB Professional 633x SDHC]()
 - **Tripod**: dismissed sony camera tripod 
 - **Bag**: [Lowepro format 140]()
+- **Filters**: Neewer kit + k&f concept 49mm UV
 
 ### Other peripherals 🖱️
 
 - **Keyboard**: [Aukey KM-G12]() + [SoniX QMK firmware]() 
 - **Mouse(s)**: [Logitech G502 HERO]()
 - **Headphones**: [Sennheiser HD599]()
+- **Speakers**: [Logitech Z120]()
+- **Mic**: [Neewer NW-800]()
+- **Audio Interface**: Tascam US-122L(soon to be replaced)
 - **Monitor(s)**: [UHD 165Hz 27" nanoIPS LG Ultragear]() + [FHD 240hz 27" IPS Samsung odissey g4]()
