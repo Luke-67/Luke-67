@@ -3,7 +3,6 @@
 Name's Luca, computer enthusiast and programmer.
 
 - 🔭 currently working on top secret stuff (jk)
-- 🌱 currently learning PHP and DBMS's
 - 📫 How to reach me: discord username is luke67_
 - ⚡ Fun fact: I play all sorts of musical instruments!
 - 🎵 check out my [Spotify profile!](https://open.spotify.com/user/31fzbdzjipuc6mb7q2oe3d5jnwvu?si=af38b0b3664c4e69) 
@@ -25,7 +24,7 @@ Name's Luca, computer enthusiast and programmer.
 
 ### Smartphone
 
-**Model**: [Google Pixel 8 256GB](https://www.amazon.it/Google-Pixel-smartphone-sbloccato-fotocamera/dp/B0CGVP8NRC) + [spigen transparent cover](https://www.amazon.it/Spigen-Cover-Hybrid-Compatibile-Google/dp/B0BZ617PMQ)
+**Model**: [Google Pixel 8 256GB](https://www.amazon.it/Google-Pixel-smartphone-sbloccato-fotocamera/dp/B0CGVP8NRC) 
 
 ### Camera 📷
 
@@ -41,10 +40,10 @@ Name's Luca, computer enthusiast and programmer.
 
 ### Other peripherals 🖱️
 
-- **Keyboard**: Aukey KM-G12 + [SoniX QMK firmware](https://github.com/SonixQMK) + foam mod
+- **Keyboard**: Epomaker EK68
 - **Mouse**: [Logitech G502 HERO](https://www.amazon.it/Logitech-programmabili-regolabili-regolazione-bilanciamento/dp/B07GS6ZB7T)
 - **Headphones**: [Sennheiser HD599](https://www.amazon.it/Sennheiser-Cuffie-Aperte-Edizione-Speciale/dp/B07Q7S7247) (over-hear open-backs) + [Salnotes Linsoul 7Hz Zero](https://www.amazon.it/Linsoul-7Hz-Zero-Auricolare-inossidabile/dp/B0B76YF5CY) (IEM's) + [Moondrop Space Travel](https://www.amazon.it/Moondrop-Auricolare-TWS-Bluetooth-cancellazione/dp/B0CKW5JY9Y) (TWS)
 - **Speakers**: Logitech Z120
 - **Mic**: Neewer NW-800 kit
-- **Audio Interface**: Tascam US-122L(soon to be replaced)
+- **Audio Interface**: M-Audio M-TRACK SOLO
 - **Monitor(s)**: UHD 165Hz 27" nanoIPS LG Ultragear + [FHD 240hz 27" IPS Samsung odissey g4](https://www.amazon.it/Samsung-Monitor-S27BG400-1920x1080-Freesync/dp/B09YV1V12P)
