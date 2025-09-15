@@ -3,7 +3,7 @@
 Name's Luca, computer enthusiast and programmer.
 
 - 🔭 currently working on top secret stuff (jk)
-- 📫 How to reach me: discord username is luke67_
+- 📫 How to reach me: capuozzoluca06@gmail.com 
 - ⚡ Fun fact: I play all sorts of musical instruments!
 - 🎵 check out my [Spotify profile!](https://open.spotify.com/user/31fzbdzjipuc6mb7q2oe3d5jnwvu?si=af38b0b3664c4e69) 
 - 🇮🇹  Italian 🍕
